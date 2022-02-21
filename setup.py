@@ -13,5 +13,5 @@ setup(name='xwing',
       test_suite='tests',
       # include_package_data: to install data from MANIFEST.in
       include_package_data=True,
-      scripts=['scripts/xwing-run'],
+      scripts=['scripts/xwing-run','scripts/xwing-fly'],
       zip_safe=False)
