@@ -1,3 +1,13 @@
+# Description
+This repo is part of my training at Le Wagon.  
+It is just a small package that you can install and that will display an ASCII art x-wing if you type the following command in your terminal:
+```bash
+xwing-fly
+```
+The rest of this README.md has been automatically generated.  
+
+-------------
+
 # Data analysis
 - Document here the project: xwing
 - Description: Project Description
